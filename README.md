@@ -4,6 +4,20 @@ Geospatial Data: What you need to know to help your researchers
 ### data sources:
 - [Shapefile for provinces](https://www.bcn.cl/siit/mapas_vectoriales/index_html)
 
+# Part I: Working with Geographic Data
+- Download and unzip roads
+- Open QGIS
+- Add roads
+- Install OpenLayers plugin
+- Add OpenStreetMap basemap
+- Add Bing Aerial basemap
+- Download and unzip province boundaries
+- Add boundaries
+- Look at table cleanup video - 40 minutes in 4 minutes!
+- Add Excel table to map
+- What matches?
+- Join based on matching fields
+- Export to new file
 
 
 ## Part II: Points in Polygons
