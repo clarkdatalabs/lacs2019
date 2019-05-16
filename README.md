@@ -2,7 +2,7 @@
 Geospatial Data: What you need to know to help your researchers
 
 ### data sources:
-- [WMTS layer of Provincia de Valparaiso map](https://maps.georeferencer.com/georeferences/144687739730/2017-10-31T20:20:56.574603Z/wmts?key=tskgL72gFmp9cVgl5MUH&SERVICE=WMTS&REQUEST=GetCapabilities) [Information about Provincia de Valparaiso map] (https://davidrumsey.georeferencer.com/maps/776038519263/)
+- [WMTS layer of Provincia de Valparaiso map](https://maps.georeferencer.com/georeferences/144687739730/2017-10-31T20:20:56.574603Z/wmts?key=tskgL72gFmp9cVgl5MUH&SERVICE=WMTS&REQUEST=GetCapabilities), [Information about Provincia de Valparaiso map](https://davidrumsey.georeferencer.com/maps/776038519263/)
 
 
 # Part I: Working with Geographic Data
